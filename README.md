@@ -2,12 +2,13 @@
 My submission for assignment 5.
 
 ## Analysis
-* Students who attend charter schools as opposed to district schools do significantly better on standardized tests. Not only are the top five performing schools charter schools and the bottom five performing schools district schools, the overall percentage of students who passed both reading and math is almost 40% higher at charter schools than their district counterparts on average.
-* Schools who have a smaller per student budget tend to have higher scores. This is evident in the "scores by school spending" section. As school spending increases, student scores decrease.
-* Although small and medium schools have similar performance, students who attend larger schools perform worse on average with a decreased passing rate 30% less than their smaller counterparts.
+* From our regression analysis towards the end of the document, there is a strong positive correlation between tumor volume and mouse weights. That is, the more a mouse weighs, the higher the average tumor volume. This is evident from the regression model as well as the correlation coefficient of 0.84.
+* Our data contains a nearly equal number of male and female mice. This helps to eliminate potential bias involving gender. For example, a study of nearly all male mice likely won't be representative of the entire population.
+* Our analysis suggest that Capomulin is quite successful. We can see from the line plot for mouse l509, tumor volume decreases as the mouse progresses through the treatment.
+* The drug of interest, Capomulin, is among the most effective. Ramicane produces slightly better results with a mean tumor volume of about 0.46 mm$^3$ less than that of Capomulin. Both drugs, however, are significantly more effective than their competitors, producing mean tumor volumes that are almost 25% smaller than the other treatments. 
 
 ## Overview
-In this project, we will analyze data from a new pharmaceutical company's most recent animal study. The purpose of this study was to compare the performance of the company's drug of interest, Capomulin, versus the other treatment regimens.
+In this project, we will analyze data from a new pharmaceutical company's most recent animal study. The purpose of this study was to compare the performance of the company's drug of interest, Capomulin, versus the other treatment regimens. Over the course of this analysis, we will do the following:
 
 * Generate summary statistics
 * Create bar charts displaying the number of timepoints of all mice tested for each drug regimen throughout the course of the study.
