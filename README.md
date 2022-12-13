@@ -1,5 +1,4 @@
-# matplotlib-challenge
-My submission for assignment 5.
+# Matplotlib Pharmaceutical Analysis
 
 ## Overview
 In this project, we will analyze data from a new pharmaceutical company's most recent animal study. The purpose of this study was to compare the performance of the company's drug of interest, Capomulin, versus the other treatment regimens. Over the course of this analysis, we will do the following:
